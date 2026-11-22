@@ -278,6 +278,6 @@ with tabs[4]:
                                    ▼
                     [ Real-Time Risk Score (0-100%) ] ──► [ Emergency Smart Contract Pause / Alert ]
     ```
-    ### Why this aligns with Datopic:
-    Datopic's client projects span Fintech and Web3 infrastructure. Demonstrating how Machine Learning models can monitor decentralized transactions and trigger automated circuit breakers directly bridges the gap between AI and Blockchain.
+    ### Practical Applications & Security Architecture:
+    High-throughput machine learning models monitoring on-chain mempool velocity allow decentralized protocols and exchanges to trigger automated circuit breakers before malicious transactions are confirmed on-chain.
     """)

@@ -101,8 +101,8 @@ Open your browser at `http://localhost:8501`.
 
 ---
 
-## 🎯 Alignment with Datopic Technologies
-Datopic's client engagements include enterprise fintech applications and Web3 transaction infrastructure. **EtherWatch highlights rigorous ML fundamentals (leakage-safe pipelines, class imbalance handling, model explainability) directly applied to blockchain data.**
+## 🎯 Research & Engineering Impact
+Developed as an applied data science project in Web3 security, **EtherWatch highlights rigorous ML pipeline fundamentals (leakage-safe train/test isolation, cost-sensitive learning for imbalanced data, and SHAP-based model interpretability) directly applied to on-chain telemetry.**
 
 ---
 
